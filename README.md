@@ -8,3 +8,4 @@ The player starts with an empty inventory and finds certain items in each area.
   Meat & Dairy - milk, cheese, chicken
 The end state of the game is to reach checkout with at least 4 inventory items (detailed again in-game when using the Describe Area action at Checkout).
 Actions are always listed every "turn."
+ 
